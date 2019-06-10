@@ -1,2 +1,2 @@
 # Reversi-using-IDA*
-A computer reversi opponent was developed using the IDA* algorithm.
+Developed an intelligent computer reversi opponent using the IDA* algorithm.
